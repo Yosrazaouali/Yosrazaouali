@@ -2,7 +2,10 @@
 <br>
 <img align="center" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
   <br/>
-
+  <a href="https://github.com/ahlem-phantom">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Yosra;Software+Developer" alt="Yosrazaouali" /></a>
+  
+</h1>
 
 </p>
 
