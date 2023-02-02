@@ -24,9 +24,7 @@
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
 
 ## 🚀 Skills
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=symfony,java,spring,mysql,dotnet,angular,c,html,css,vscode,eclipse,git,maven,idea,bootstrap" />
-  </a>
+ 
   
 ## :chart_with_upwards_trend: My GitHub Stats
 
