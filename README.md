@@ -9,7 +9,8 @@
   </a>
     <br/>
      <a href="https://github.com/Yosrazaouali">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Yosra;Software engineer" alt="Yosrazaouali" /></a>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Yosra;Software engineer" alt="Yosrazaouali" />
+    </a>
 
   </div>
 
