@@ -1,19 +1,10 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500px" /> <br>
-  <div id="badges">
-   <a href="https://www.linkedin.com/in/yosra-zaouali-12a51b234/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:zaoualiyosra6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-    <br/>
-     <a href="https://github.com/Yosrazaouali">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Caveat&size=36&color=157DEC&center=true&vCenter=true&lines=Hi%2C+I%27m+Yosra;Software engineer" alt="Yosrazaouali" />
-    </a>
+<br>
+<img align="center" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
+  <br/>
 
-  </div>
 
+</p>
 
 ## :hand: About Me
 
@@ -22,13 +13,25 @@
 - 🌱 I’m currently learning Angular framework, 
   
 - 👯 I’m looking to collaborate on open Source Project and to work as freelancer
+  
+- ⚡ Fun fact: I AM A DANCER
 
 ## 🚀 Skills
- 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=symfony,java,c,html,css,bootstrap,angular,dotnet,spring,mysql,git,maven,eclipse,vscode,idea,postman" />
+  </a>
   
 ## :chart_with_upwards_trend: My GitHub Stats
-
- 
+  
+## 📫 How to reach me 
+  <div id="badges"align="center">
+   <a href="https://www.linkedin.com/in/yosra-zaouali-12a51b234/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:zaoualiyosra6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+     </div>
 
 
 
