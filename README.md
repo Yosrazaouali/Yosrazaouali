@@ -22,7 +22,8 @@
   </a>
   
 ## :chart_with_upwards_trend: My GitHub Stats
- <a href="https://github.com/Yosrazaouali"><img src="https://github-readme-stats.vercel.app/api?username=Yosrazaouali/&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yosrazaouali's GitHub stats" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=Yosrazaouali&show_icons=true&theme=radical" /><br/>
+<img src="https://streak-stats.demolab.com/?user=Yosrazaouali&theme=dark" />
 
 ## 📫 How to reach me 
   <div id="badges"align="center">
