@@ -40,6 +40,7 @@ Hello Developers, welcome to my GitHub profile. I encourage you to clone any of 
 <img src="https://github-readme-stats.vercel.app/api?username=Yosrazaouali&show_icons=true&theme=radical" /><br/>
 <img src="https://streak-stats.demolab.com/?user=Yosrazaouali&theme=dark" />
 
+
 ## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
 
 - Sharing updates on <a<a href="https://www.linkedin.com/in/yosra-zaouali-12a51b234/">>LinkedIn</a> 💼
