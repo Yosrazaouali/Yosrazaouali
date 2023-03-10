@@ -9,13 +9,11 @@
 
 </p>
 <h4 align="center">
-Hello < Developers/ >, welcome to my GitHub profile. I encourage you to clone any of my projects and provide feedback if you think there's room for improvement.
+Hello Developers, welcome to my GitHub profile. I encourage you to clone any of my projects and provide feedback if you think there's room for improvement.
   Please feel free to reach out to me with any questions or suggestions you may have. Thank you for visiting!
 
-
-
  <br>
-<i>Happy Coding!</i> 😊
+ 😊
 </h4> 
 
 ## :hand: About Me
