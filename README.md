@@ -40,26 +40,9 @@ Hello Developers, welcome to my GitHub profile. I encourage you to clone any of 
 <img src="https://github-readme-stats.vercel.app/api?username=Yosrazaouali&show_icons=true&theme=radical" /><br/>
 <img src="https://streak-stats.demolab.com/?user=Yosrazaouali&theme=dark" />
 
-## 📫 How to reach me 
-  <div id="badges"align="center">
-   <a href="https://www.linkedin.com/in/yosra-zaouali-12a51b234/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:zaoualiyosra6@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
-  </a>
-     </div>
-<!--
-**Yosrazaouali/Yosrazaouali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Find me around the web 🌎: <a href="#"><img align="left" width="150" height="150"  src="https://gist.githubusercontent.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"></a>
 
-Here are some ideas to get you started:
+- Sharing updates on <a<a href="https://www.linkedin.com/in/yosra-zaouali-12a51b234/">>LinkedIn</a> 💼
+- Reach me on <a href="mailto:zaoualiyosra6@gmail.com">> Gmail </a> ✍🏾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
