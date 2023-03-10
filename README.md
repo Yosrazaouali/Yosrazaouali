@@ -44,5 +44,6 @@ Hello Developers, welcome to my GitHub profile. I encourage you to clone any of 
 
 - Sharing updates on <a<a href="https://www.linkedin.com/in/yosra-zaouali-12a51b234/">>LinkedIn</a> 💼
 - Reach me on <a href="mailto:zaoualiyosra6@gmail.com">> Gmail </a> ✍🏾
-
+<br> 
+ <br>
 
